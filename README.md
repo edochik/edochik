@@ -24,7 +24,7 @@
 </p>
 
 ## 📬 **Связаться со мной**
-- [Telegram](https://t.me/toropovegor)
+- [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toropovegor)
 - [Email](mailto:youremail@example.com) *(если есть)*
 
 ---
