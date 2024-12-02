@@ -6,8 +6,7 @@
 
 📍 **Все мои проекты доступны здесь**  
 
-🚀 **[Codewars: моя статистика и достижения](https://www.codewars.com/users/edochik)**  
-- [![Codewars](https://www.codewars.com/users/edochik/badges/large)](https://www.codewars.com/users/edochik)
+🚀 **[Codewars: моя статистика и достижения](https://www.codewars.com/users/edochik)**  [![Codewars](https://www.codewars.com/users/edochik/badges/large)](https://www.codewars.com/users/edochik)
 
 # Я использую технологии
 
