@@ -25,7 +25,7 @@
 
 ## 📬 **Связаться со мной**
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toropovegor)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com)
+[![Email](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toropov.eg.vl@gmail.com)
 
 ---
 
