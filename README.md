@@ -4,7 +4,7 @@
 
 - 📄 **Моё резюме**  
 
-- 📍 **Все мои проекты доступны здесь ➤**   [toropov](https://toropov-freelance.ru/#portfolio)
+- 📍 **Все мои проекты доступны здесь ➤**   [toropov](https://toropov-freelance.ru/#portfolio){:target="_blank"}
 
 - 🚀 **Codewars: моя статистика и достижения**  [![Codewars](https://www.codewars.com/users/edochik/badges/large)](https://www.codewars.com/users/edochik)
 
