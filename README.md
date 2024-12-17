@@ -6,7 +6,7 @@
 - 📍 **Все мои проекты доступны здесь ➤**   [toropov](https://toropov-freelance.ru/#portfolio)
 
 
-- 🚀 **Codewars: моя статистика и достижения**  [![Codewars](https://www.codewars.com/users/edochik/badges/large)](https://www.codewars.com/users/edochik)
+- 🚀 **Codewars: моя статистика и достижения**  [![Codewars](https://www.codewars.com/users/edochik/badges/micro)](https://www.codewars.com/users/edochik)
 
 ---
 # Я использую технологии
